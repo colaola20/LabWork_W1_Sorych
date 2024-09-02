@@ -39,6 +39,6 @@ public class Car extends Vehicle {
         System.out.println("The numbers of wheels: " + getNumberOfWheels());
         System.out.println("Color: " + getColor());
         System.out.println("The size of engine: " + getEngineSize());
-        System.out.println("The type of fuel: " + getColor());
+        System.out.println("The type of fuel: " + getFuelType());
     }
 }
