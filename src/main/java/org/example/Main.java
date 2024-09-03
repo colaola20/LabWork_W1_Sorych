@@ -47,6 +47,6 @@ public class Main {
         c.setFuelType("Diesel");
         c.displayInfo();
 
-        System.out.println("Finished testing of the Car class methods!");
+        System.out.println("\nFinished testing of the Car class methods!");
     }
 }
