@@ -5,7 +5,6 @@ public class Car extends Vehicle {
 
     // Default constructor
     public Car() {
-
     }
 
     //Constructor for the Car class which takes the String brand, int numberOfWheels, String color, float engineSize, String fuelType parameters and the super Vehicle class's constructor
